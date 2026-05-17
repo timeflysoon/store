@@ -1,5 +1,5 @@
 # store
-此项目用于存储 [AutoBuildImmortalWrt](https://github.com/wukongdaily/AutoBuildImmortalWrt/) 仓库以外的第三方软件包。
+此项目用于存储 [ImmortalWrt-ImageBuilder](https://github.com/wukongdaily/ImmortalWrt-ImageBuilder) 仓库以外的第三方软件包。
 本仓库的 IPK 文件来自多个项目，版权归原作者，见 README 列表。
 
 
@@ -42,3 +42,6 @@ https://github.com/wukongdaily/AutoBuildImmortalWrt/discussions/209
 - https://github.com/wukongdaily/DockerTarBuilder<br>
 - ### [OpenWrt/Armbian IMG安装器ISO] 🆕
 - https://github.com/wukongdaily/img-installer
+
+## 25.12.x 相关仓库
+[25.12.x 相关仓库 ](https://github.com/wukongdaily/apk)
